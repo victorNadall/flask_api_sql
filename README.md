@@ -1,6 +1,6 @@
 # API FLASK
 
-### Api de carros feita em Flask e SQLAlchemy
+### Api em Flask e SQLAlchemy
 
 <br>
 
